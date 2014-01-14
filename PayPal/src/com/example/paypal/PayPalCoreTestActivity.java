@@ -1,5 +1,5 @@
 
-package com.interrait.paypal;
+package com.example.paypal;
 
 import android.app.Activity;
 import android.content.Intent;
